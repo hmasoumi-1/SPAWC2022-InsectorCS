@@ -1,5 +1,5 @@
 # SPAWC2022-InsectorCS
-This repository contains the MATLAB codes for the simulation results in the following conference paper which was the recipient of the "best student paper award" in SPAWC 2022.
+This repository contains the MATLAB codes for the simulation results in the following conference paper which was the recipient of the "best student paper award" of SPAWC 2022 conference held in Oulu, Finland.
 
 H. Masoumi, N. J. Myers, G. Leus, S. Wahls, and M. Verhaegen, “Structured sensing matrix design for in-sector compressed mmwave channel estimation,” in Proc. IEEE Intl. Workshop Signal Process. Adv. Wireless Commun. (SPAWC), pp. 1–5, 2022.
 
